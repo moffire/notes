@@ -250,3 +250,4 @@ fabric.properties
 out
 gen
 venv
+/blog/migrations/
