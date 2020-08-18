@@ -251,3 +251,4 @@ out
 gen
 venv
 /blog/migrations/
+/blog/static/
